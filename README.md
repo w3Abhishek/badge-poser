@@ -9,7 +9,7 @@ or its latest stable version.
 [![License](https://poser.pugx.org/pugx/badge-poser/license.svg)](https://packagist.org/packages/pugx/badge-poser)
 [![Downloads](https://poser.pugx.org/pugx/badge-poser/d/total.svg)](https://packagist.org/packages/pugx/badge-poser)
 [![composer.lock available](https://poser.pugx.org/pugx/badge-poser/composerlock)](https://packagist.org/packages/pugx/badge-poser)
-
+<img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/flarum/core?include_prereleases">
 ## How to create your own Badge
 
 * Go to the [Badge Poser](https://poser.pugx.org) website
